@@ -5,13 +5,12 @@ ___If we list all the natural numbers below 10 that are multiples of 3 or 5, we 
 ___Find the sum of all the multiples of 3 or 5 below 1000.___
 
 ## Solution
-![solution](../img/p0001.png)
+![solution](../img/p0001/p0001.png)
 
 If S(n) is the sum of all the multiples of n, the answer is...
 
-$$
-\therefore \quad answer\quad =\quad S(3)\quad +\quad S(5)\quad -\quad S(15)
-$$
+![solution_1](../img/p0001/p0001_1.png)
+
 
 ### 1. loop
 ```cpp
