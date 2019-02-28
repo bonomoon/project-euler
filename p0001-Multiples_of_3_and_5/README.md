@@ -4,6 +4,8 @@ ___If we list all the natural numbers below 10 that are multiples of 3 or 5, we 
 
 ___Find the sum of all the multiples of 3 or 5 below 1000.___
 
+__https://projecteuler.net/problem=1__
+
 ## 2. Solution
 ![solution](../img/p0001/p0001.png)
 
