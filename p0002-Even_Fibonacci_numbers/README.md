@@ -8,13 +8,14 @@ ___By considering the terms in the Fibonacci sequence whose values do not exceed
 
 
 ## 2. Solution
-##### (1) Fibonacci general term
+#### (1) Fibonacci general term
 ![formula_1](../img/p0002/p0002_1.png)
 
-##### (2) Formula of Fibonacci sequence
+#### (2) Formula of Fibonacci sequence
+I proved it by linear homogenous recurrence and quadratic formula.
 ![formula_2](../img/p0002/p0002_2.png)
 
-##### (3) Pesudo code
+#### (3) Pesudo code
 Anyway, this problem is not 'the n-th Fibonacci number'. I have to find the sum of even-valued terms untill the final term exceeds four million. So, I solved using simply swap.
 
 
