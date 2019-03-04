@@ -71,7 +71,7 @@ int main() {
 	
 ```
 ##### Result
-![result_1](../img/p0005/p0005_result1.png)
+![result_1](https://raw.githubusercontent.com/bonomoon/project_euler/master/img/p0005/p0005_result1.PNG)
 
 #### (2) Using least-common-multiple(lcm)
 ``` cpp
