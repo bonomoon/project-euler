@@ -124,4 +124,4 @@ int main() {
 
 ```
 ##### Result
-![result_2](../img/p0005/p0005_result2.png)
+![result_2](https://raw.githubusercontent.com/bonomoon/project_euler/master/img/p0005/p0005_result2.PNG)
